@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\YouTube Content\Devops\cimage_dev_ops_todo\env
+set VIRTUAL_ENV=C:\Users\risha\Desktop\devops-01\devops-01\env
 
 if not defined PROMPT set PROMPT=$P$G
 
