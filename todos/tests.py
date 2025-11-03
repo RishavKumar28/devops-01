@@ -2,5 +2,5 @@ from django.test import TestCase
 
 # Create your tests here.
 
-class test_EC4():
+class test_EC5():
     pass
